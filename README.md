@@ -8,7 +8,7 @@
 
 [Jupyter](https://en.m.wikipedia.org/wiki/Project_Jupyter) is a platform for interactive computing, including a notebook capability inspired by Mathematica notebooks. Language and system agnostic, Jupyter allows for any backend to be integrated.
 
-The [maxima-jupyter](https://github.com/robert-dodier/maxima-jupyter) project is based on the Common Lisp Jupyter kernel and allows Maxima users to create and publish notebooks using their preferred computer algebra system.
+The [maxima-jupyter](https://github.com/robert-dodier/maxima-jupyter) project is based on the Common Lisp Jupyter kernel and allows Maxima users to create and publish Jupyter notebooks using their preferred computer algebra system.
 
 ## The Notebooks
 
