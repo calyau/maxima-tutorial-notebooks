@@ -22,3 +22,5 @@ docker run -it \
     calyau/maxima-jupyter \
     notebook --ip=0.0.0.0 --port=8888
 ```
+
+Note that the above `docker` command is so useful that I have wrapped it in a shell script `start-maxima` and use it for all my computational maths projects.
