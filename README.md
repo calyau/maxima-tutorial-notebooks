@@ -4,6 +4,14 @@
 
 ## About
 
+[Maxima](https://en.m.wikipedia.org/wiki/Maxima_(software)) is a computer algebra system that traces its lineage back to [MACSYMA](https://en.m.wikipedia.org/wiki/Macsyma), MIT, and the early days of Lisp. Stephen Wolfram was one of the biggest users of MACSYMA, which provided inspiration for Mathematica.
+
+[Jupyter](https://en.m.wikipedia.org/wiki/Project_Jupyter) is a platform for interactive computing, including a notebook capability inspired by Mathematica notebooks. Language and system agnostic, Jupyter allows for any backend to be integrated.
+
+The [maxima-jupyter](https://github.com/robert-dodier/maxima-jupyter) project is based on the Common Lisp Jupyter kernel and allows Maxima users to create and publish notebooks using their preferred computer algebra system.
+
+## The Notebooks
+
 This repository provides Jupyter notebooks for a portion of 
 [The Computer Algebra Program Maxima - a Tutorial](http://maxima.sourceforge.net/docs/tutorial/en/gaertner-tutorial-revision/Contents.htm). It provides the following:
 * [Getting Started](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Getting%20Started.ipynb)
