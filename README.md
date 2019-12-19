@@ -26,12 +26,20 @@ and publish Jupyter notebooks using their preferred computer algebra system.
 
 This repository provides Jupyter notebooks for a portion of
 [The Computer Algebra Program Maxima - a Tutorial](http://maxima.sourceforge.net/docs/tutorial/en/gaertner-tutorial-revision/Contents.htm).
-It provides the following:
+In particular, there are notebooks for the following:
 * [Getting Started](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Getting%20Started.ipynb)
 * [First Steps with Maxima](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/First%20Steps%20with%20Maxima.ipynb)
 * [Maxima Tutorial - Symbolic Integration - First Examples](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Maxima%20Tutorial%20-%20Symbolic%20Integration%20-%20First%20Examples.ipynb)
-* [Maxima Tutorial - Vector Calculus - Vector Fields](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Maxima%20Tutorial%20-%20Vector%20Calculus%20-%20Vector%20Fieldss.ipynb)
+
+The "Use of Lisp" tutorial was also converted, but then vastly expanded:
 * [Use of Lisp](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Use%20of%20Lisp.ipynb)
+
+The following tips/tutorials are not part of the tutorials mentioned above, 
+but have been taken from other sources:
+* [Maxima Tutorial - Vector Calculus - Vector Fields](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Maxima%20Tutorial%20-%20Vector%20Calculus%20-%20Vector%20Fieldss.ipynb)
+
+
+## Running Locally
 
 To run these locally, you may execute the following in a terminal (requires
 `git` and `docker` to be installed):
@@ -48,6 +56,15 @@ docker run -it \
 
 Note that the above `docker` command is so useful that I have wrapped it in a
 shell script `start-maxima` and use it for all my computational maths projects.
+
+### Alternate Docker Images
+
+The `calyau/maxima-jupyter` referenced above is the smallest Maxima-Jupyter 
+Docker image currently available, however it is not the only one. If you would
+like to export your notebooks as PDF or LaTeX files, create Common Lisp or
+Clojure notebooks using the same Jupyter instance, etc., then you'll want to
+browse the Maxima-Jupyter flavours of Docker images
+[here](https://github.com/calyau/maxima-jupyter-plus).
 
 <!-- Named page links below: /-->
 
