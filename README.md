@@ -36,7 +36,7 @@ The "Use of Lisp" tutorial was also converted, but then vastly expanded:
 
 The following tips/tutorials are not part of the tutorials mentioned above, 
 but have been taken from other sources:
-* [Maxima Tutorial - Vector Calculus - Vector Fields](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Maxima%20Tutorial%20-%20Vector%20Calculus%20-%20Vector%20Fieldss.ipynb)
+* [Maxima Tutorial - Vector Calculus - Vector Fields](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Maxima%20Tutorial%20-%20Vector%20Calculus%20-%20Vector%20Fields.ipynb)
 
 
 ## Running Locally
