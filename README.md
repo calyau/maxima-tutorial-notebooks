@@ -1,6 +1,9 @@
 # maxima-tutorial-notebooks
 
-*The Maxima Tutorial ported to use Jupyter notebooks*
+*Maxima Tips and Tutorials in Jupyter notebooks*
+
+[![][logo]][logo-large]
+
 
 ## About
 
@@ -45,3 +48,8 @@ docker run -it \
 
 Note that the above `docker` command is so useful that I have wrapped it in a
 shell script `start-maxima` and use it for all my computational maths projects.
+
+<!-- Named page links below: /-->
+
+[logo]: https://avatars0.githubusercontent.com/u/24504053?s=200&v=4
+[logo-large]: https://avatars0.githubusercontent.com/u/24504053?v=4
