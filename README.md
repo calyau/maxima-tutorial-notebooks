@@ -27,6 +27,7 @@ It provides the following:
 * [Getting Started](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Getting%20Started.ipynb)
 * [First Steps with Maxima](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/First%20Steps%20with%20Maxima.ipynb)
 * [Maxima Tutorial - Symbolic Integration - First Examples](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Maxima%20Tutorial%20-%20Symbolic%20Integration%20-%20First%20Examples.ipynb)
+* [Maxima Tutorial - Vector Calculus - Vector Fields](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Maxima%20Tutorial%20-%20Vector%20Calculus%20-%20Vector%20Fieldss.ipynb)
 * [Use of Lisp](https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Use%20of%20Lisp.ipynb)
 
 To run these locally, you may execute the following in a terminal (requires
